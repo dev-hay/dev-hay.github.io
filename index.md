@@ -8,7 +8,6 @@ Thank you for visiting my webpage. I am a Software Engineer from Redditch aged b
 - REST API Framework: ASP.NET Core
 - Database: MySQL
 - Wireframe Tool: Lucidchart
-
 - Book: Rich Dad Poor Dad - Robert Kiyosaki
 - Investing Platform: Trading 212
 - CFD Platform: Etoro
